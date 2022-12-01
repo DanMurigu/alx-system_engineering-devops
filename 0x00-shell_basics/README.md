@@ -5,4 +5,5 @@ Changes directory to users home directory
 list long files
 display directories content including hidden files
 Display current directories content long format with user and group id and hidden files
-Creates a directory in tmp 
+Creates a directory in tmp
+moves file betty from tmp to /tmp/myfirstdirectory 
