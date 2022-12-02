@@ -10,3 +10,4 @@ moves file betty from tmp to /tmp/myfirstdirectory
 Delete the file Betty 
 Delete directory
 Changes working directory to previous one
+lists all files
