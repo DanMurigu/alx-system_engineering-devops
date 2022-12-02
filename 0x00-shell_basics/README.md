@@ -13,3 +13,4 @@ Changes working directory to previous one
 lists all files
 Prints types of file named
 Creates a symbolic link
+Copies all html files from current working directory
