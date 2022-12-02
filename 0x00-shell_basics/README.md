@@ -15,3 +15,4 @@ Prints types of file named
 Creates a symbolic link
 Copies all html files from current working directory
 moves all files beginning with an uppercase letter
+Deletesa all files in the working directory that end with character ~
