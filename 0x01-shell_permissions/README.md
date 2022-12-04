@@ -9,3 +9,4 @@ Gives execution permission to the owner group owner and others
 Gives permission to users only
 Gives permission to the owner to read write and execute and the group read and execute and users to write and execute 
 Changes the mode of hello to Ollehs mode
+Adds execute permission to all sub directories of current working directory of the owner 
