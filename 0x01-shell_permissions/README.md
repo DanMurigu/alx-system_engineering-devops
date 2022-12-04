@@ -11,3 +11,4 @@ Gives permission to the owner to read write and execute and the group read and e
 Changes the mode of hello to Ollehs mode
 Adds execute permission to all sub directories of current working directory of the owner 
 Creates a directory and gives the directory 751 permissions
+Changes group ownership of hello file to group
