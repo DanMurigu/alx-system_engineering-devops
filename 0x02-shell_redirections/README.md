@@ -9,3 +9,4 @@ Creates a file called Best school
 writes into the file ls_cwd_content the result of the command ls -la
 Writes a script that duplicates the last line of the file iacta
 No more javascript
+Counts number of directories and sub directories
