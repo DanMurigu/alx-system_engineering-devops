@@ -22,3 +22,4 @@ Removes all letters c and C from input
 Reverse input
 displays all users and their home directories, sorted by users
  finds all empty files and directories in the current directory and all sub-directories
+Prints all files with .gif extension
