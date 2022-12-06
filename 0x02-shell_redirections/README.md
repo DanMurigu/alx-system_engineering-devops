@@ -10,3 +10,4 @@ writes into the file ls_cwd_content the result of the command ls -la
 Writes a script that duplicates the last line of the file iacta
 No more javascript
 Counts number of directories and sub directories
+Create a script that displays the 10 newest files
