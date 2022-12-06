@@ -23,3 +23,4 @@ Reverse input
 displays all users and their home directories, sorted by users
  finds all empty files and directories in the current directory and all sub-directories
 Prints all files with .gif extension
+ decodes acrostics that use the first letter of each line
