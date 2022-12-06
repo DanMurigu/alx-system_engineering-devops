@@ -14,3 +14,4 @@ Create a script that displays the 10 newest files
 Create a script that takes a list of words as input and prints only words that appear exactly once
 Display lines containing the pattern “root” from the file /etc/passwd
 It counts the number of words
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
