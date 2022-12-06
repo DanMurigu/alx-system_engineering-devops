@@ -6,3 +6,4 @@ Dispalys the last 10 lines of /etc/passwd
 Displays the first 10 lines of /etc/psswd
 Displays third line of the file iacta
 Creates a file called Best school
+writes into the file ls_cwd_content the result of the command ls -la
