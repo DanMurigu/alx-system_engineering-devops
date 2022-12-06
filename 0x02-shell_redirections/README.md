@@ -20,4 +20,5 @@ Display all lines of the file /etc/ssh/sshd_config starting with a letter
 Replace all characters A and c from input to Z and e respectively
 Removes all letters c and C from input
 Reverse input
-displays all users and their home directories, sorted by users.
+displays all users and their home directories, sorted by users
+ finds all empty files and directories in the current directory and all sub-directories
