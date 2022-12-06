@@ -11,3 +11,4 @@ Writes a script that duplicates the last line of the file iacta
 No more javascript
 Counts number of directories and sub directories
 Create a script that displays the 10 newest files
+Create a script that takes a list of words as input and prints only words that appear exactly once
