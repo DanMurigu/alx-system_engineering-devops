@@ -5,3 +5,4 @@ Add /action to the PATH
 lists environment variables
 creates a new local variable 
 Creates a newlocal variable Name Best Value School
+Creates a global variable 
