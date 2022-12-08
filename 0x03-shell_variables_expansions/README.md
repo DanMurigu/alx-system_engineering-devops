@@ -11,4 +11,5 @@ Prints the results of power divided by divide
 Displays results of death to the power love
 Converts numbers from base 2 to base 10
 Prints all possible combinations of two letters
-Prints a number with two decimal places 
+Prints a number with two decimal places
+Decimal to hexadecimal 
