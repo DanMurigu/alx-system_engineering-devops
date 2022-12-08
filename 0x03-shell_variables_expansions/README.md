@@ -4,3 +4,4 @@ Add /action to the PATH
  counts the number of directories in the PATH
 lists environment variables
 creates a new local variable 
+Creates a newlocal variable Name Best Value School
