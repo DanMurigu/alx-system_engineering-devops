@@ -13,4 +13,5 @@ Converts numbers from base 2 to base 10
 Prints all possible combinations of two letters
 Prints a number with two decimal places
 Decimal to hexadecimal
- encodes and decodes text using the rot13 encryption 
+ encodes and decodes text using the rot13 encryption
+adds the two numbers stored in the environment variables WATER and STIR and prints the result. 
