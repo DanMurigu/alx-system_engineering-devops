@@ -10,4 +10,5 @@ prints the result of the addition of 128 with the value stored in the environmen
 Prints the results of power divided by divide
 Displays results of death to the power love
 Converts numbers from base 2 to base 10
-Prints all possible combinations of two letters 
+Prints all possible combinations of two letters
+Prints a number with two decimal places 
