@@ -6,4 +6,5 @@ lists environment variables
 creates a new local variable 
 Creates a newlocal variable Name Best Value School
 Creates a global variable
-prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE 
+prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
+Prints the results of power divided by divide 
